@@ -1,2 +1,2 @@
 # AdventOfCode
-Advent of Code challenges.
+Advent of Code challenges in various random languages (probably mostly Python).
